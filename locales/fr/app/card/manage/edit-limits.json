@@ -1,0 +1,10 @@
+{
+	"CARD_LIMIT_DAILY_WITHDRAWAL": "Plafond de retrait journalier",
+	"CARD_LIMIT_MONTHLY_PAYMENT": "Plafond de carte mensuel",
+	"CARD_LIMIT_MONTHLY_WITHDRAWAL": "Plafond de retrait mensuel",
+	"LIMIT_INVALID": "Plafond invalide",
+	"LIMIT_TOO_HIGH": "Plafond trop élevé",
+	"MAXIMUM_ALLOWED_LIMIT": "Plafond maximum autorisé : {{amount}}",
+	"TITLE": "Modifier mes plafonds",
+	"VALIDATE": "Valider"
+}

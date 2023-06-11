@@ -1,0 +1,8 @@
+{
+	"ACTION_LABEL": "Continuer",
+	"ERROR_MESSAGE_IBAN": "Il y a une erreur avec cet iban",
+	"IBAN_LABEL": "IBAN",
+	"IBAN_PLACEHOLDER": "ex : FR76 1234 3000 00000 1234 1234 102",
+	"IBAN_SUB_LABEL": "De votre bénéficiaire",
+	"INCOMPLETE_FORM_ERROR": "Ce champ doit-être renseigné"
+}

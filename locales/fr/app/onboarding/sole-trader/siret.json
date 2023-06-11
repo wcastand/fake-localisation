@@ -1,0 +1,11 @@
+{
+	"CONTINUE": "Continuer",
+	"FILL_INFOS_MANUALLY": "Entrer mes infos manuellement",
+	"HEADER_TITLE": "Mon entreprise et moi",
+	"SIRET": "Quel est votre numéro de SIRET ?",
+	"SIRET_ERROR": "Nous n’avons pas trouvé de n° de SIRET correspondant.",
+	"SIRET_FORMAT_ERROR": "Format du SIRET invalide.",
+	"SIRET_NUMBER": "Numéro de SIRET",
+	"SIRET_NUMBER_EXAMPLE": "ex : 12345678900012",
+	"TRY_AGAIN": "Réessayer"
+}

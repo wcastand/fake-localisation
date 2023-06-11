@@ -1,0 +1,8 @@
+{
+	"CONFIRM_ACTION": "Continuer",
+	"DEFAULT_REFERENCE": "Fait depuis Green-Got",
+	"INFORMATIONS": "Les caractères spéciaux (hormis / + *) ne sont pas acceptés dans l'enregistrement de la référence. Le nombre maximal de caractères est 34 (espaces compris 😇).",
+	"REFERENCE_LABEL": "Référence",
+	"SUB_REFERENCE_LABEL": "Pour votre bénéficiaire",
+	"TO": "à "
+}

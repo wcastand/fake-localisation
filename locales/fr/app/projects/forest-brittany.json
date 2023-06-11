@@ -1,0 +1,35 @@
+{
+	"GOAL_TITLE": "Boiser une ancienne terre agricole en Bretagne",
+	"LOCATION": "Bretagne",
+	"SECTION_1_ITEM_1": "Boiser une ancienne terre agricole de 6 ha à Ploemel, en Bretagne.",
+	"SECTION_1_ITEM_2": "Ramener et recréer la biodiversité du sol, de la faune et de la flore.",
+	"SECTION_1_ITEM_3": "Mener une étude écologique sur une zone humide de 2ha.",
+	"SECTION_1_TITLE": "Objectifs du projet",
+	"SECTION_2_DESCRIPTION": [
+		"Après un été 2022 qui a vu partir en fumée des hectares de forêts en Bretagne, le projet de boisement de la forêt autour de Ploemel prend tout son sens. L’objectif de ce projet est de recréer une forêt avec 3 000 plants d’essence d’arbres adaptés qui ont été choisis à la suite d’une analyse sylvicole des sols et du climat local menée par EcoTree.",
+		"",
+		"Les essences à planter, et la diversification des essences et des âges des arbres, sont déterminés afin de créer un écosystème forestier durable ainsi qu’un habitat protégé et riche en biodiversité. Dans un premier temps, le financement permettra d’acheter les jeunes plants qui débuteront leur croissance en pépinière, avant de pouvoir les planter sur la terre agricole dans un second temps.",
+		"",
+		"Ce projet est réalisé main dans la main avec des acteurs locaux tels que des forestiers, des experts en biodiversité, des apiculteurs, des écologues ainsi qu’avec des entreprises qui privilégient l’emploi de personnes en réinsertion ou en situation de handicap physique ou moteur."
+	],
+	"SECTION_2_IMG": "Lieu du projet à Ploemel, Bretagne",
+	"SECTION_2_TITLE": "Description du projet",
+	"SECTION_3_DESCRIPTION": [
+		"À chaque fois que vous payez par carte, le commerçant ou la commerçante paye une commission à votre banque. C’est ce qu’on appelle des frais d’interchange. Cette commission peut varier entre 0,2% et 0,3% selon votre type de carte (débit ou crédit).",
+		"",
+		"Chez Green-Got nous avons choisi de renoncer à une partie de ce revenu pour que cet argent soit alloué à la protection de la planète. Ainsi, nous reversons directement une partie de ces frais pour le projet de plantation de la forêt de Ploemel."
+	],
+	"SECTION_3_TITLE": "Comment ça marche ?",
+	"SECTION_4_LINK_1": "Lire l’article complet",
+	"SECTION_4_TITLE": "Pour aller plus loin",
+	"SLIDER_ITEM_1_TEXT": ["Grâce à vous,", "**{{value}} m2**", "de forêt bretonne boisés"],
+	"SLIDER_ITEM_2_TEXT": ["Ensemble,", "**{{value}} plants**", "d'arbres parrainés"],
+	"SLIDER_ITEM_3_TEXT": "**Beaucoup** d’animaux sauvés (mais on ne les a pas comptés).",
+	"SLIDESHOW_TITLE": "Mais aussi",
+	"TITLE": "À chaque dépense, vous préservez un peu plus la forêt.",
+	"TOPBOX_BASELINE": "1€ reversé = 53 kilos de CO₂e stockés",
+	"TOPBOX_GLOBAL_IMPACT": "ensemble",
+	"TOPBOX_INDIVIDUAL_IMPACT": "grâce à vous",
+	"TOPBOX_RESULT_1": " kg CO₂e stockés",
+	"TOPBOX_RESULT_2": " t CO₂e stockés"
+}

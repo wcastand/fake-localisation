@@ -1,0 +1,14 @@
+{
+	"ANNUAL_INCOME": "Revenus annuels approximatifs de votre activité principale",
+	"APE_CODE": "Code APE (NAF)",
+	"COMPANY_CREATION_DATE": "Date de création de l'entreprise",
+	"HEADER_TITLE": "Mon entreprise et moi",
+	"INDUSTRY": "Secteur d’activité de votre situation professionnelle principale",
+	"MODIFY_INFOS": "Modifier mes infos",
+	"PROJECTED_TURNOVER": "Chiffre d'affaires prévisionnel",
+	"SIRET_NUMBER": "Numéro de SIRET",
+	"SITUATION": "Votre situation professionnelle principale",
+	"TITLE": "Est-ce bien ça ? 👀",
+	"UPLOAD_ERROR": "Une erreur est survenue lors de l'envoi du fichier.",
+	"YES_IT_IS": "C'est bien ça !"
+}

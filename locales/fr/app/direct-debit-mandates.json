@@ -1,0 +1,14 @@
+{
+	"ALERT_CANCEL": "Annuler",
+	"ALERT_CONFIRM": "Je suis sûr.e",
+	"ALERT_MESSAGE": "Êtes-vous sûr.e de vouloir révoquer ce prélèvement ?",
+	"ALERT_TITLE": "Révoquer",
+	"EMPTY_LIST": ["Aucun prélèvement", "automatique pour le moment"],
+	"LOADING_ERROR": "Une erreur est survenue lors du chargement de vos prélèvements",
+	"REPEAT_DATE": "le {{day}} du mois",
+	"REVOKE": "Révoquer",
+	"REVOKE_ERROR": "Une erreur est survenue lors de la révoquation de votre prélèvement",
+	"REVOKE_SUCCESS": "Votre prélèvement a été correctement révoqué",
+	"TITLE": "Vos autorisations de prélèvement",
+	"TITLE_ERROR": "Une erreur est survenue"
+}

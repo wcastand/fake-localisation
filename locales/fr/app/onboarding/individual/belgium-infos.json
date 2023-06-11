@@ -1,0 +1,11 @@
+{
+	"BIRTH_CITY": "Votre ville de naissance",
+	"CONTINUE": "Continuer",
+	"ERROR_INVALID_FORMAT": "Caractères invalides",
+	"ERROR_INVALID_NUMBER": "Ce numéro est invalide",
+	"HEADER_TITLE": "Mes données & infos perso",
+	"NATIONAL_REGISTER_NUMBER": "Votre n° de registre national",
+	"NATIONAL_REGISTER_NUMBER_HELP": "Vous le trouverez à l'arrière de votre carte d'identité. Il se compose de 11 chiffres dont les six premiers correspondent à votre date de naissance. Il n'est pas identique à votre numéro de carte.",
+	"SUBTITLE": "Nous avons besoin de 2 informations supplémentaires pour nos ami·es belges 👐",
+	"TITLE": "Petites validations supplémentaires 🇧🇪"
+}

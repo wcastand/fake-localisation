@@ -1,0 +1,10 @@
+{
+	"CONFIRM": "Continuer",
+	"DATE_LABEL": "Choisissez une date",
+	"DIFFERED": "Virement différé",
+	"DIFFERED_DATE": "Date d'envoi",
+	"FREQUENCY_LABEL": "Répéter ce virement",
+	"RECURRENT": "Virement récurrent",
+	"RECURRENT_FREQUENCY": "Fréquence d'envoi",
+	"TITLE": "Virement programmé"
+}

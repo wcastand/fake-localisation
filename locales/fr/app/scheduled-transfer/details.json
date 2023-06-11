@@ -1,0 +1,21 @@
+{
+	"AMOUNT_LABEL": "Montant",
+	"DELETE_DIFFERED": "Annuler ce virement",
+	"DELETE_RECURRENT": "Mettre fin à cette récurrence",
+	"DELETING_CONFIRM": "J'ai compris",
+	"DIFFERED_DELETING_MSG": "Votre virement ne sera pas envoyé et cette programmation sera annulée.",
+	"DIFFERED_DELETING_TITLE": "Annuler ce virement",
+	"DIFFERED_TITLE": "Votre virement différé",
+	"ERROR_DELETING": "Impossible de supprimer la programmation actuellement",
+	"FREQUENCY_LABEL": "Récurrence",
+	"NOTE_LABEL": "Note",
+	"PAYEE_LABEL": "Bénéficiaire",
+	"RECURRENT_DELETING_MSG": "Cette programmation sera annulée, et les virements pour cette récurrence cesseront d'être exécutés.",
+	"RECURRENT_DELETING_TITLE": "Mettre fin à la récurrence",
+	"RECURRENT_TITLE": "Votre virement récurrent",
+	"REFERENCE_LABEL": "Référence",
+	"SUCCESS_DELETING": "Programmation annulée avec succès",
+	"UNKNOWN_LABEL": "Ce virement n'est plus accessible",
+	"UNKNOWN_LEAVE": "Retourner à l'accueil",
+	"UNKNOWN_TITLE": "Virement inacessible"
+}

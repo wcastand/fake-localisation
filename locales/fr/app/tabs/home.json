@@ -1,0 +1,11 @@
+{
+	"BANK_STATEMENTS": "Relevés de compte",
+	"DIRECT_DEBIT_MANDATES": "Autorisations de prélèvement",
+	"RIB": "RIB",
+	"ROUNDED_AMOUNT": "{{value}} arrondis ce mois-ci",
+	"TODAY": "Aujourd'hui",
+	"VALIDATING_MESSAGE": "Votre compte sera crédité une fois validé. Cette opération peut prendre un maximum de 48 heures.",
+	"WAITING_MESSAGE": "Suivez son avancement dans l'onglet Carte",
+	"WAITING_TITLE": "On s'occupe de votre carte ⚡️",
+	"WIRE_MONEY": "Virement"
+}

@@ -1,0 +1,23 @@
+{
+	"BACK_CARD_AGAIN": "J’aimerai revoir les cartes",
+	"CITY": "Ville",
+	"CITY_PLACEHOLDER": "ex : Bordeaux",
+	"COUNTRY": "Pays de résidence",
+	"COUNTRY_PLACEHOLDER": "ex : France",
+	"DELIVERY_INFO_DESC": "Grâce à ces informations, nous pourrons vous envoyer votre carte Green-Got 🏡",
+	"ERROR_POSTAL_CODE": "le format est invalide",
+	"HEADER_TITLE": "Ma carte",
+	"INCOMPLETE_FORM_ALERT": "Vous devez remplir tous les champs.",
+	"INFO_SAVING_ERROR": "Une erreur est survenue lors de la sauvegarde de vos informations.",
+	"OPTIONAL": " (optionnel)",
+	"POSTAL_CODE": "Code postal",
+	"POSTAL_CODE_PLACEHOLDER": "ex : 33 000",
+	"SAVING_ACTION": "Enregistrer",
+	"STREET_ADDITIONAL": "Complément d’adresse",
+	"STREET_ADDITIONAL_PLACEHOLDER": "ex : Résidence les Aubiers",
+	"STREET_NAME": "Libellé de la voie / Lieu-dit",
+	"STREET_NAME_PLACEHOLDER": "ex : rue des Taillandiers",
+	"STREET_NUMBER": "Numéro de rue",
+	"STREET_NUMBER_PLACEHOLDER": "ex : 29 bis",
+	"TITLE": "Vos informations de livraison 📦"
+}

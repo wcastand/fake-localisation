@@ -1,0 +1,21 @@
+{
+	"ACTIVATE": "Activer l’arrondi de paiement",
+	"CORAL_REEF_PROJECT": "Préserver les récifs coralliens",
+	"DATA_SAVED": "Données sauvegardées",
+	"DESCRIPTION": "Augmentez votre impact avec l’arrondi de paiement pour soutenir le projet de votre choix.",
+	"ENERGY_PROJECT": "Financement des énergies renouvelables",
+	"EXAMPLE": "Exemple",
+	"EXAMPLE_DESCRIPTION": " : un paiement de 5,87 € devient 6 € et les 0,13 € iront au projet sélectionné.",
+	"FETCH_ERROR": "Oups, une erreur est survenue. Veuillez réessayer plus tard ou contacter le service client.",
+	"FOREST_PROJECT": "Protection de la forêt et reboisement",
+	"MANGROVES_PROJECT": "Restaurer la mangrove",
+	"MAXIMUM_DONATION": "Donation maximale par mois (en euros)",
+	"NO_PROJECT_SELECTED_1": "Vous n'avez pas sélectionné de projet,",
+	"NO_PROJECT_SELECTED_2": " nous répartissons donc votre argent équitablement entre toutes les initiatives que nous soutenons.",
+	"OCEAN_PROJECT": "Dépollution de la surface maritime",
+	"PROJECT_SELECTED": "Vous avez choisi de soutenir le projet de ",
+	"REGREENING_PROJECT": "Reverdir un écosystème",
+	"ROUNDED_AMOUNT": "Vous avez déjà arrondi <amount>{{value}}</amount> ce mois-ci.",
+	"TITLE": "Arrondis de paiements",
+	"WHERE_GOES_MONEY": "Où va mon argent"
+}

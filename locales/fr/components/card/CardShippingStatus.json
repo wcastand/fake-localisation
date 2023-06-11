@@ -1,0 +1,13 @@
+{
+	"ACTIVATE_CARD": "Activer ma carte",
+	"CARD_ALREADY_RECEIVED": "Vous avez déjà reçu votre carte ? Parfait, Il ne vous reste qu’à l’activer !",
+	"CARD_DELAY": "Votre carte a pris son envol. Réception de 5 à 15 jours ouvrés.",
+	"STEP_MANUFACTURE": "Fabrication",
+	"STEP_MANUFACTURE_CURRENT": "En fabrication",
+	"STEP_MANUFACTURE_DONE": "Carte prête",
+	"STEP_ORDERED_CURRENT": "En commande",
+	"STEP_ORDERED_DONE": "Commande reçue",
+	"STEP_SHIPPED": "Expédition",
+	"STEP_SHIPPED_CURRENT": "Expediée",
+	"UNKNOWN": "Inconnue"
+}

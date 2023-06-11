@@ -1,0 +1,9 @@
+{
+	"FETCH_ERROR": "Error lors de la sauvegarde des paramètres",
+	"FORM_LOCALE_LABEL": "Language de l'application",
+	"FORM_LOCALE_PLACEHOLDER": "Français",
+	"FORM_LOCALE_TITLE": "Choississez la langue de l'application",
+	"SUCCESS_SAVED": "Langue sauvegardée avec succés",
+	"SUCCESS_SAVED_TITLE": "Succés",
+	"TITLE": "Paramètres de l'application"
+}

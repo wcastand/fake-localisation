@@ -1,0 +1,13 @@
+{
+	"DEFAULT_ERROR_MESSAGE": "Il semblerait qu’il y ait eu une erreur, vous pouvez fermer l’app et recommencer, ou nous contacter..",
+	"DEFAULT_ERROR_TITLE": "Oups 🙈",
+	"EXPLAIN_1": "C’est un niveau de sécurité supplémentaire pour confirmer la commande de votre nouvelle carte.",
+	"EXPLAIN_2": "Entrez le code juste-ici : (Pensez à vérifier vos spams 😉)",
+	"NEED_NEW_CODE": "J’ai besoin d’un nouveau code",
+	"SUBTITLE": "Nous venons d'envoyer un code par e-mail 🚀",
+	"TITLE": "Sécurité",
+	"TOO_MANY_TRIES": "Trop d’essais",
+	"TOO_MANY_TRIES_MESSAGE": "Vous avez entré le mauvais code trop de fois. Veuillez en demander un nouveau.",
+	"WRONG_CODE": "Mauvais code",
+	"WRONG_CODE_MESSAGE": "Veuillez vérifier le code reçu et réessayer."
+}

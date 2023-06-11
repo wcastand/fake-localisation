@@ -1,0 +1,12 @@
+{
+	"BACK_HEADER_LABEL": "Envoyer",
+	"CONFIRM_AMOUNT": "Continuer",
+	"CURRENT_BALANCE": "Solde de votre compte : ",
+	"ERROR_CANNOT_SEND_NEGATIVE": "Désolé, vous ne pouvez pas envoyer une somme d’argent négative!",
+	"ERROR_CANNOT_SEND_ZERO": "Désolé, vous ne pouvez pas envoyer zéro euros.",
+	"ERROR_INVALID": "Veuillez entrer un montant valide.",
+	"ERROR_LOADING_ACCOUNT": "Une erreur est survenue lors du chargement de votre solde.",
+	"INSUFFICIENT_FUNDS": "Solde insuffisant",
+	"SCHEDULED_LABEL": "Virement programmé",
+	"TITLE": "Combien souhaitez-vous envoyer ? 💸"
+}

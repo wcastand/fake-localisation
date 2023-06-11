@@ -1,0 +1,19 @@
+{
+	"ACTION_CONFIRM": "Confirmer le paiement",
+	"ACTION_DECLINE": "Refuser le paiement",
+	"AUTH_MESSAGE": "Veuillez vous identifier pour valider le paiement.",
+	"BACK_LINK": "Home",
+	"CONFIRMATION_AUTHENTICATED": "Paiement authorisé",
+	"CONFIRMATION_DECLINED": "Paiement decliné",
+	"ERROR_EXPIRED": "Cette validation de paiement 3D Secure a expiré",
+	"ERROR_LOADING": "Erreur lors du chargement des données",
+	"ERROR_LOADING_403": "Cette demande de paiement 3D Secure n'est plus active",
+	"ERROR_LOADING_404": "Oups. Cette validation de paiement 3D Secure est introuvable",
+	"ERROR_SAVING_BODY": "Oups. Une erreur inattendue est survenue. Réessayez plus tard, ou bien dites-le nous et on s'en occupe.",
+	"ERROR_TITLE": "Tiens, tiens 🤔",
+	"LABEL_AMOUNT": "Montant",
+	"LABEL_CARD_NUMBER": "Carte",
+	"LABEL_DATE": "Date",
+	"LABEL_MERCHANT": "Marchand",
+	"TITLE": "Transaction à confirmer ⌛"
+}

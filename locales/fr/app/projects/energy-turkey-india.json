@@ -1,0 +1,40 @@
+{
+	"LOCATION": "Inde et Turquie",
+	"SECTION_1_ITEM_1": "Remplacer l’utilisation des énergies fossiles par des énergies renouvelables pour diminuer les émissions de CO2,",
+	"SECTION_1_ITEM_2": "Permettre l’accès à l’électricité aux populations locales isolées.",
+	"SECTION_1_TITLE": "Objectifs du projet",
+	"SECTION_2_DESCRIPTION": [
+		"La lutte contre le dérèglement climatique ne pourra être efficace qu’en agissant dans le monde entier.",
+		"",
+		"Grâce à la finance, nous pouvons développer les énergies renouvelables, là où elles sont le plus nécessaires, pour limiter la consommation des énergies fossiles.",
+		"",
+		"Contrairement à la France, la majorité des pays utilisent encore beaucoup de charbon pour produire leur électricité.\nC’est le cas de l’Inde et de la Turquie, deux pays ayant un des mix électriques les plus polluants au monde.\nC’est là qu’il est nécessaire d’agir en priorité.",
+		"",
+		"Nous développons ensemble dans ces pays des infrastructures de centrales solaires et d’éoliennes. L'électricité ainsi produite est injectée dans le réseau, remplaçant l'électricité provenant de combustibles fossiles par de l'énergie bas carbone.",
+		"",
+		"La quantité d’émissions ainsi réduite dans ces projets est calculée grâce à la méthode de référence, c'est-à-dire en calculant la différence de quantité de CO2 que produirait la même quantité d'énergie avec le mix d'électricité habituel de la région."
+	],
+	"SECTION_2_IMG_BALIKESIR": "Projet Balikesir, Turquie",
+	"SECTION_2_IMG_GUTTIGOLI": "Projet Guttigoli, Inde",
+	"SECTION_2_TITLE": "Description du projet",
+	"SECTION_3_DESCRIPTION": [
+		"À chaque fois que vous payez par carte, le commerçant ou la commerçante paye une commission à votre banque. C’est ce qu’on appelle des frais d’interchange. Cette commission peut varier entre 0,2% et 0,3% selon votre type de carte (débit ou crédit).",
+		"",
+		"Chez Green-Got nous avons choisi de renoncer à ce revenu pour que cet argent soit alloué à la protection de la planète. Ainsi, nous reversons directement une partie de ces frais pour le projet de production d’énergies renouvelables en Inde et en Turquie."
+	],
+	"SECTION_3_TITLE": "Comment ça marche ?",
+	"SECTION_4_DESCRIPTION": "Ce standard international permet d’attester de l’impact réel du projet dans la lutte contre le réchauffement climatique et la perte de biodiversité. Ce projet est audité annuellement par des institutions indépendantes pour renouveler ces certifications.",
+	"SECTION_4_TITLE": "Comment le projet est vérifié ?",
+	"SECTION_5_LINK_1": "Lire l’article complet",
+	"SECTION_5_TITLE": "Pour aller plus loin",
+	"SLIDER_ITEM_1_TEXT": ["Grâce à vous", "**{{value}} kWh**", "d’énergie renouvelable"],
+	"SLIDER_ITEM_2_TEXT": ["Ensemble", "**1 an** d’électricité", "bas-carbone pour", "**{{value}} personnes**"],
+	"SLIDER_ITEM_3_TEXT": ["Et ça, c’est une", "**belle bouffée", "d’air** frais", "pour elle"],
+	"SLIDESHOW_TITLE": "Mais aussi",
+	"TITLE": "Ensemble, nous finançons les énergies renouvelables",
+	"TOPBOX_BASELINE": "10€ dépensés = 5kg de CO₂ évités",
+	"TOPBOX_GLOBAL_IMPACT": "ensemble",
+	"TOPBOX_INDIVIDUAL_IMPACT": "grâce à vous",
+	"TOPBOX_RESULT_1": " kg de CO₂ évités",
+	"TOPBOX_RESULT_2": " t de CO₂ évitées"
+}

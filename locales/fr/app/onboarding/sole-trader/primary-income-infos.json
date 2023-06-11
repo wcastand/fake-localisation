@@ -1,0 +1,11 @@
+{
+	"ANNUAL_INCOME": "Revenus annuels approximatifs de votre activité principale",
+	"ERROR_MUST_FILL_ALL": "Vous devez sélectionner une valeur pour chaque champ.",
+	"HEADER_TITLE": "Mon entreprise et moi",
+	"INDUSTRY": "Secteur d’activité de votre situation professionnelle principale",
+	"SITUATION": "Votre situation professionnelle principale",
+	"SOURCE_OF_FUNDS": "Provenance des fonds",
+	"TAX_RESIDENCE": "Pays de résidence fiscale",
+	"TITLE": "Infos légales ⚖️",
+	"VALIDATE_MY_INFO": "Valider mes infos"
+}

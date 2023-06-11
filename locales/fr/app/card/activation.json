@@ -1,0 +1,10 @@
+{
+	"ACTIVATION_ERROR": "Une erreur est survenue lors de l'activation de votre carte.",
+	"ACTIVATION_SUCCESS": "Votre carte a bien été activée.",
+	"ACTIVATION_SUCCESS_TITLE": "Activation Confirmée",
+	"ALREADY_ACTIVATED": "Cette carte est deja activée.",
+	"EXPLAIN": "Pour activer votre carte, entrez les 4 derniers chiffres de votre numéro de carte.",
+	"TITLE": "Activer ma carte",
+	"TITLE_ERROR": "Une erreur est survenue",
+	"WRONG_PAN": "les 4 derniers chiffres de votre numero de carte ne corresponde pas."
+}

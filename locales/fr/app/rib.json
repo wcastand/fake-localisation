@@ -1,0 +1,20 @@
+{
+	"ADDRESS_TITLE": "Adresse",
+	"BIC_TITLE": "Bic",
+	"COPY_BIC_LABEL": "Vous pouvez le coller dans n’importe quel champ texte.",
+	"COPY_BIC_TITLE": "BIC copié dans le presse-papier",
+	"COPY_IBAN_LABEL": "Vous pouvez le coller dans n’importe quel champ texte.",
+	"COPY_IBAN_TITLE": "IBAN copié dans le presse-papier",
+	"DOWNLOAD_RIB": "Télécharger en .pdf",
+	"ERROR_LABEL": "Erreur lors du chargement du RIB",
+	"ERROR_TITLE": "Erreur",
+	"IBAN_TITLE": "Iban",
+	"INFO_BOX_MESSAGE": [
+		"- Les virements vers et depuis votre compte arrivent sous 2 à 3 jours ouvrés",
+		"",
+		"- Le plafond de virement entrant est de 10 000€ par jour"
+	],
+	"INFO_BOX_TITLE": "Petits rappels",
+	"SOLE_TRADER": "EI",
+	"TITLE": "RIB"
+}

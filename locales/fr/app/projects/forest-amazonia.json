@@ -1,0 +1,43 @@
+{
+	"LOCATION": "Brésil",
+	"SECTION_1_ITEM_1": "Préserver des parcelles de la forêt amazonienne de la déforestation dûe aux cultures intensives,",
+	"SECTION_1_ITEM_2": "Protéger la biodiversité présente,",
+	"SECTION_1_ITEM_3": "Assurer les droits fonciers des locaux et locales.",
+	"SECTION_1_TITLE": "Objectifs du projet",
+	"SECTION_2_DESCRIPTION": [
+		"La fôret amazonienne est le poumon de la planète. Elle produit 6% de l’oxygène de notre atmosphère. C’est aussi le plus grand réservoir de biodiversité de la Terre. Sa protection est nécessaire pour toute la population mondiale.",
+		"",
+		"Chaque année, des centaines de milliers d’hectares de ces terres très fertiles sont brûlés illégalement pour faire de la place aux plantations de soja qui nourriront le bétail pour fournir en viande les marchés mondiaux.",
+		"",
+		"Ce projet que vous financez au quotidien permet de soutenir les Ribeirinhos, habitants de l’Amazonie, afin d’obtenir des droits fonciers sur ces parcelles de terre et permettre ainsi de les préserver.",
+		"",
+		"L'octroi de droits fonciers officiels est très important car, selon la loi brésilienne, les terres qui ne sont pas possédées peuvent simplement être confisquées, déboisées et cultivées.",
+		"",
+		"Grâce à ce projet, la zone n'est plus considérée comme inutilisée et les exploitations agricoles ne peuvent plus l'occuper légalement."
+	],
+	"SECTION_2_IMG_1_LABEL": "Lieu du projet à Portel",
+	"SECTION_2_IMG_2_LABEL": "Village à Portel",
+	"SECTION_2_IMG_3_LABEL": "Parcelles préservées",
+	"SECTION_2_IMG_4_LABEL": "Lieu du projet à Portel",
+	"SECTION_2_TITLE": "Description du projet",
+	"SECTION_3_DESCRIPTION": [
+		"À chaque fois que vous payez par carte, le commerçant ou la commerçante paye une commission à votre banque. C’est ce qu’on appelle des frais d’interchange. Cette commission peut varier entre 0,2% et 0,3% selon votre type de carte (débit ou crédit). Chez Green-Got nous avons choisi de renoncer à ce revenu pour que cet argent soit alloué à la protection de la planète. Ainsi, nous reversons directement une partie de ces frais pour le projet de préservation de la fôret amazonienne.",
+		"",
+		"Ce projet est vérifié par DNV (Det Norske Veritas), expert mondial et indépendant de la certification de projets à impact, ainsi que par le VCS program (Verified Carbon Standard) de verra.org. Ce projet a également reçu le Gold Label de CCBA (pour Climate, Community & Biodiversity Alliance, une initiative menée par Rainforest Alliance), soit le plus haut niveau de certification possible pour des projets de protection de l’environnement."
+	],
+	"SECTION_3_TITLE": "Comment ça marche ?",
+	"SECTION_4_DESCRIPTION": "Ces deux standards internationaux permettent d’attester de l’impact réel du projet dans la lutte contre le réchauffement climatique et la perte de biodiversité. Ce projet est audité annuellement par des institutions indépendantes pour renouveler ces certifications.",
+	"SECTION_4_TITLE": "Comment le projet est vérifié ?",
+	"SECTION_5_LINK_1": "Lire l’article complet",
+	"SECTION_5_TITLE": "Pour aller plus loin",
+	"SLIDER_ITEM_1_TEXT": ["Grâce à vous", "**{{value}} kg de CO₂**", "stockés."],
+	"SLIDER_ITEM_2_TEXT": ["Ensemble", "**{{value}} t de CO₂**", "stockés."],
+	"SLIDER_ITEM_3_TEXT": "**Beaucoup** d’animaux sauvés (mais on ne les a pas comptés).",
+	"SLIDESHOW_TITLE": "Mais aussi",
+	"TITLE": "À chaque dépense, vous préservez un peu plus la forêt amazonienne.",
+	"TOPBOX_BASELINE": "10€ dépensés = 1,8 m² de forêt préservés",
+	"TOPBOX_GLOBAL_IMPACT": "ensemble",
+	"TOPBOX_INDIVIDUAL_IMPACT": "grâce à vous",
+	"TOPBOX_RESULT_1": " m² préservés",
+	"TOPBOX_RESULT_2": " ha préservés"
+}

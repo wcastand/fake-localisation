@@ -1,9 +1,0 @@
-{
-	"AUTH_MESSAGE": "Veuillez vous identifier pour accéder à vos comptes.",
-	"FORGOT_PIN": "Oups, J'ai oublié mon code",
-	"HELLO": "Bonjour",
-	"PIN_NOT_SET_MSG": "Vous n'avez pas enregistré de code PIN à temps. Par sécurité veuillez vous reconnecter.",
-	"PIN_NOT_SET_TITLE": "Pas de code PIN",
-	"WRONG_PIN_MSG": "Le code PIN que vous avez entré est incorrect. Veuillez réessayer.",
-	"WRONG_PIN_TITLE": "Code PIN incorrect"
-}

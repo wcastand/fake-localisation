@@ -1,7 +1,0 @@
-{
-	"DIFFERED_TITLE": "Virements différés",
-	"EMPTY_LIST": ["Aucun virement programmé", "actuellement"],
-	"LOADING_ERROR": "Une erreur est survenue lors du chargement de vos bénéficiaires",
-	"RECURRENT_TITLE": "Virements récurrents",
-	"TITLE": "Mes virements programmés"
-}

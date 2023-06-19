@@ -1,1 +1,6 @@
-{ "CARD": "Carte", "HOME": "Compte", "IMPACT": "Impact", "SAVINGS": "Epargne" }
+{
+	"CARD": "Carte",
+	"HOME": "Compte",
+	"IMPACT": "Impact",
+	"SAVINGS": "Epargne"
+}

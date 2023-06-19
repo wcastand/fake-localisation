@@ -1,7 +1,13 @@
 {
 	"ADD_PAYEE": "Ajouter un·e bénéficiaire",
-	"EMPTY_LIST": ["Aucun·e bénéficiaire", "pour le moment."],
-	"EMPTY_MESSAGE": ["Ajoutez-en un·e pour effectuer", "votre premier virement !"],
+	"EMPTY_LIST": [
+		"Aucun·e bénéficiaire",
+		"pour le moment."
+	],
+	"EMPTY_MESSAGE": [
+		"Ajoutez-en un·e pour effectuer",
+		"votre premier virement !"
+	],
 	"LOADING_ERROR": "Une erreur est survenue lors du chargement de vos bénéficiaires",
 	"MOST_RECENT_TITLE": "Virement précédent",
 	"QUICK_TRANSFER": "Faire un virement rapide",

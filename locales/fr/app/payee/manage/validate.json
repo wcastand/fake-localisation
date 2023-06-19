@@ -1,12 +1,12 @@
 {
-	"ADD_AND_WIRE": "Ajouter et faire un virement",
-	"ADD_ONLY": "Ajouter",
-	"AFTER": "Après",
-	"BEFORE": "Avant",
-	"BENEFICIAR": "Bénéficiaire",
-	"EDIT_AND_WIRE": "Editer et faire un virement",
-	"IBAN": "IBAN",
-	"SUCCESS_EDIT": "Modifications sauvegardées.",
-	"TITLE": "Pour récapituler 👌",
-	"UPDATE": "Valider"
+  "ADD_AND_WIRE": "Ajouter et faire un virement",
+  "ADD_ONLY": "Ajouter",
+  "AFTER": "Après",
+  "BEFORE": "Avant",
+  "BENEFICIAR": "Bénéficiaire",
+  "EDIT_AND_WIRE": "Editer et faire un virement",
+  "IBAN": "IBAN",
+  "SUCCESS_EDIT": "Modifications sauvegardées.",
+  "TITLE": "Pour récapituler 👌",
+  "UPDATE": "Valider"
 }
